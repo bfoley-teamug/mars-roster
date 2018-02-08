@@ -1,0 +1,19 @@
+{
+  "name": "heyapp",
+  "version": "1.0.0",
+  "description": "basic app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-validator": "^4.3.0",
+    "moment": "^2.19.3",
+    "mongojs": "^2.4.1"
+  }
+}
